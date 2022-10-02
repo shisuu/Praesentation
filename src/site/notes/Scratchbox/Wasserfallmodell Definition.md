@@ -10,7 +10,7 @@
 > Für jede Phase existieren eigene spezifische Vorgaben, die es zu erfüllen gilt. Erst wenn diese abgeschlossen sind, wird die Arbeit an der nächsten Phase begonnen, wobei die vorherigen Ergebnisse im neuen Schritt immer mit einbezogen werden.
 
 1. Das Wasserfallmodell ist ein lineares[^2] [[Scratchbox/Vorgehensmodell|Vorgehensmodell]] aus dem traditionellen Projektmanagement.
-Ein Projekt wird dabei in mehrere Phasen unterteilt, die [[Sequentielles Paradigma | sequentiell]] [^1] und ohne Rückschritte aufeinander folgen.
+Ein Projekt wird dabei in mehrere Phasen unterteilt, die [[Scratchbox/Sequentielles Paradigma|sequentiell]] [^1] und ohne Rückschritte aufeinander folgen.
 Der Endpunkt eines Abschnitts dient somit immer als Anstoß für den nächsten. 
 
 https://bvik.org/b2b-glossar/wasserfallmodell/
@@ -38,7 +38,7 @@ https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/wasserfallmo
 
 6. Das Wasserfallmodell ist ein lineares (nicht iteratives) Vorgehensmodell, insbesondere für die Softwareentwicklung, das in Phasen organisiert wird. Dabei gehen die Phasenergebnisse wie bei einem Wasserfall immer als bindene Vorgaben für die nächsttiefere Phase ein.
 
-Im Wasserfallmodell hat jede Phase vordefinierte Start- und Endpunkte mit eindeutig definierten Ergebnissen. In Meilensteinsitzungen am jeweiligen Phasenende werden die Ergebnisdokumente verabschiedet. Zu den wichtigsten Dokumenten zählen dabei das [[Lastenhefts | Lastenheft]] sowie das [[Scratchbox/Pflichtenhefts| Pflichtenheft]].
+Im Wasserfallmodell hat jede Phase vordefinierte Start- und Endpunkte mit eindeutig definierten Ergebnissen. In Meilensteinsitzungen am jeweiligen Phasenende werden die Ergebnisdokumente verabschiedet. Zu den wichtigsten Dokumenten zählen dabei das [[Scratchbox/Lastenhefts|Lastenheft]] sowie das [[Scratchbox/Pflichtenhefts|Pflichtenheft]].
 
 http://www.eftrading.ch/index.php/categories/item/39-waterfallmodel
 
