@@ -10,7 +10,7 @@
 > Für jede Phase existieren eigene spezifische Vorgaben, die es zu erfüllen gilt. Erst wenn diese abgeschlossen sind, wird die Arbeit an der nächsten Phase begonnen, wobei die vorherigen Ergebnisse im neuen Schritt immer mit einbezogen werden.
 
 1. Das Wasserfallmodell ist ein lineares[^2] [[FiSi/Lernfeld 5/2022-09-16 Klausur/Vorgehensmodell|Vorgehensmodell]] aus dem traditionellen Projektmanagement.
-Ein Projekt wird dabei in mehrere Phasen unterteilt, die [[FiSi/Lernfeld 5/2022-09-16 Klausur/Sequentielles Paradigma|sequentiell]] [^1] und ohne Rückschritte aufeinander folgen.
+Ein Projekt wird dabei in mehrere Phasen unterteilt, die [[FiSi/Lernfeld 5/2022-09-16 Klausur/Sequentielles Paradigma|sequentiell]][^1] und ohne Rückschritte aufeinander folgen.
 Der Endpunkt eines Abschnitts dient somit immer als Anstoß für den nächsten. 
 
 https://bvik.org/b2b-glossar/wasserfallmodell/
