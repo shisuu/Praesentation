@@ -5,8 +5,6 @@
 
 # Vorgehensmodelle
 
-**Definitionen:**
-
 Ein Vorgehensmodell zur Softwareentwicklung ist ein für die Softwareentwicklung angepasstes Vorgehensmodell bei der professionellen Anwendungsentwicklung.
 Es dient dazu, die Softwareentwicklung übersichtlicher zu gestalten und in der Komplexität beherrschbar zu machen.
 
