@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fi-si/lernfeld-5/2022-09-16-klausur/phasen-des-vorgehensmodells/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/fi-si/lernfeld-5/2022-09-16-klausur/phasen-des-vorgehensmodells/"}
 ---
 
 
@@ -83,8 +83,8 @@ Auch hier können große Probleme eine Rückkehr in Phase eins erfordern.
 
 Eine andere häufig genutzte Alternative macht aus dem Wasserfall-Modell für die Softwareentwicklung 6 Phasen:
 
-1. Die Planung mit Erstellung des [[FiSi/Lernfeld 5/2022-09-16 Klausur/Lastenhefts|Lastenhefts]], der Projektkalkulation und der Projektplanung (System engineering)
-2. Die Definitionsphase mit Erstellung des [[FiSi/Lernfeld 5/2022-09-16 Klausur/Pflichtenhefts|Pflichtenhefts]], dem Produktmodell, dem GUI-Modeell und möglicherweise auch schon mit einem Grundmodell für das Benutzerhandbuch (Analysis)
+1. Die Planung mit Erstellung des [[FiSi/Lernfeld 5/2022-09-16 Klausur/Lastenhefts\|Lastenhefts]], der Projektkalkulation und der Projektplanung (System engineering)
+2. Die Definitionsphase mit Erstellung des [[FiSi/Lernfeld 5/2022-09-16 Klausur/Pflichtenhefts\|Pflichtenhefts]], dem Produktmodell, dem GUI-Modeell und möglicherweise auch schon mit einem Grundmodell für das Benutzerhandbuch (Analysis)
 3. Die Entwurfsphase mit UML-Diagrammen und Struktorogrammen (Design) 
 4. Die Implementierung (Coding / Implementation)
 5. Das Testen (Testing)
