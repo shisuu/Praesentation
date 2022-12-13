@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fi-si/lernfeld-5/2022-09-16-klausur/hintergrund-voraussetzungen-einsatz-wasserfallmodell/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/fi-si/lernfeld-5/2022-09-16-klausur/hintergrund-voraussetzungen-einsatz-wasserfallmodell/"}
 ---
 
 
