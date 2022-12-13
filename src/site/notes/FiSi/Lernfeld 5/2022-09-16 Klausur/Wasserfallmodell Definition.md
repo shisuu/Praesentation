@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/fi-si/lernfeld-5/2022-09-16-klausur/wasserfallmodell-definition/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/fi-si/lernfeld-5/2022-09-16-klausur/wasserfallmodell-definition/"}
 ---
-
 
 # Wasserfallmodell Definition
 
@@ -9,14 +8,14 @@
 
 > Für jede Phase existieren eigene spezifische Vorgaben, die es zu erfüllen gilt. Erst wenn diese abgeschlossen sind, wird die Arbeit an der nächsten Phase begonnen, wobei die vorherigen Ergebnisse im neuen Schritt immer mit einbezogen werden.
 
-1. Das Wasserfallmodell ist ein lineares[^2] [[FiSi/Lernfeld 5/2022-09-16 Klausur/Vorgehensmodell|Vorgehensmodell]] aus dem traditionellen Projektmanagement.
-Ein Projekt wird dabei in mehrere Phasen unterteilt, die [[FiSi/Lernfeld 5/2022-09-16 Klausur/Sequentielles Paradigma|sequentiell]][^1] und ohne Rückschritte aufeinander folgen.
+1. Das Wasserfallmodell ist ein lineares[^2] [[FiSi/Lernfeld 5/2022-09-16 Klausur/Vorgehensmodell\|Vorgehensmodell]] aus dem traditionellen Projektmanagement.
+Ein Projekt wird dabei in mehrere Phasen unterteilt, die [[FiSi/Lernfeld 5/2022-09-16 Klausur/Sequentielles Paradigma\|sequentiell]][^1] und ohne Rückschritte aufeinander folgen.
 Der Endpunkt eines Abschnitts dient somit immer als Anstoß für den nächsten. 
 
 https://bvik.org/b2b-glossar/wasserfallmodell/
 
 2. Das Wasserfallmodell ist ein lineares Vorgehensmodell, das Entwicklugnsprozesse in aufeinanderfolgende Projektphasen unterteilt. 
-Im Gegensatz zu [[FiSi/Lernfeld 5/2022-09-16 Klausur/iterativen Modellen|iterativen Modellen]] wird jede Phase nur einmal durchlaufen.
+Im Gegensatz zu [[FiSi/Lernfeld 5/2022-09-16 Klausur/iterativen Modellen\|iterativen Modellen]] wird jede Phase nur einmal durchlaufen.
 Die Ergebnisse einer jeden Vorgängerphase gehen als Vorannahmen in die Folgephase ein. 
 
 https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
@@ -38,7 +37,7 @@ https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/wasserfallmo
 
 6. Das Wasserfallmodell ist ein lineares (nicht iteratives) Vorgehensmodell, insbesondere für die Softwareentwicklung, das in Phasen organisiert wird. Dabei gehen die Phasenergebnisse wie bei einem Wasserfall immer als bindene Vorgaben für die nächsttiefere Phase ein.
 
-Im Wasserfallmodell hat jede Phase vordefinierte Start- und Endpunkte mit eindeutig definierten Ergebnissen. In Meilensteinsitzungen am jeweiligen Phasenende werden die Ergebnisdokumente verabschiedet. Zu den wichtigsten Dokumenten zählen dabei das [[FiSi/Lernfeld 5/2022-09-16 Klausur/Lastenhefts|Lastenheft]] sowie das [[FiSi/Lernfeld 5/2022-09-16 Klausur/Pflichtenhefts|Pflichtenheft]].
+Im Wasserfallmodell hat jede Phase vordefinierte Start- und Endpunkte mit eindeutig definierten Ergebnissen. In Meilensteinsitzungen am jeweiligen Phasenende werden die Ergebnisdokumente verabschiedet. Zu den wichtigsten Dokumenten zählen dabei das [[FiSi/Lernfeld 5/2022-09-16 Klausur/Lastenhefts\|Lastenheft]] sowie das [[FiSi/Lernfeld 5/2022-09-16 Klausur/Pflichtenhefts\|Pflichtenheft]].
 
 http://www.eftrading.ch/index.php/categories/item/39-waterfallmodel
 
